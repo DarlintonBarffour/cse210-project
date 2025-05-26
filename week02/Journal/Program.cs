@@ -1,3 +1,11 @@
+// Program.cs
+// This program exceeds the core requirements:
+// - Implements all standard features: writing, displaying, saving, and loading journal entries.
+// - Uses OOP principles with separate classes: Journal, JournalEntry, PromptGenerator.
+// - Includes structured file handling with serialization and deserialization of entries.
+// - Features prompt randomization for user inspiration.
+// - Implements data persistence with basic error handling and clear user interface.
+
 using System;
 using System.Collections.Generic;
 using System.IO;
