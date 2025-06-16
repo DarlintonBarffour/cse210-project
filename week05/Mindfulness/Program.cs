@@ -103,8 +103,8 @@ namespace MindfulnessApp
                 Console.WriteLine($"{kvp.Key}: {kvp.Value} times");
             }
             Console.WriteLine();
-            new Activity().ShowSpinner(3);
-        }
+            
+         }
 
         public abstract void Run();
     }
